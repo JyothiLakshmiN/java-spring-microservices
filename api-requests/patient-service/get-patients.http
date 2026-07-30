@@ -1,3 +1,2 @@
-### GET request to get all parients
-GET http://localhost:4000/patients
-###
+GET http://localhost:4004/api/patients
+Authorization: Bearer {{token}}
